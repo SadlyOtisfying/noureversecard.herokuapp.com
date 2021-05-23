@@ -8,8 +8,8 @@
     "start": "node app.js"
   },
   "engines": {
-    "node": "==14.17.0",
-    "npm": "==7.13.0"
+    "node": ">=14.0.0",
+    "npm": ">=7.0.0"
   },
   "author": "Titus Ng",
   "license": "ISC"
