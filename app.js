@@ -11,7 +11,7 @@ const server = http.createServer(function(req, res) {
         fs.createReadStream("favicon.ico").pipe(res);
     }
     else
-        res.end(ip);
+        res.end("Your IP address " + ip + "is logged. ;)");
 });
 
 server.listen(PORT);
