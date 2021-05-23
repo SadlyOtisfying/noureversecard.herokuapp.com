@@ -1,0 +1,12 @@
+{
+  "name": "noureversecard",
+  "version": "1.0.0",
+  "description": "gets and returns your ip address",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "author": "Titus Ng",
+  "license": "ISC"
+}
